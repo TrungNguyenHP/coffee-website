@@ -57,7 +57,7 @@
 
     
 <!-- header section -->
-<?php include('./sections/header.php'); ?> 
+<?php require('./sections/header.php'); ?> 
 
 
 <!-- home section  -->
