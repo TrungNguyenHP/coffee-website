@@ -57,7 +57,7 @@
 
     
 <!-- header section -->
-<?php include('sections/header.php'); ?> 
+<?php include('/home/site/wwwroot/coffee-website/sections/header.php'); ?> 
 
 
 <!-- home section  -->
