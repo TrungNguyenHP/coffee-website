@@ -53,11 +53,11 @@
 
 
 <!-- Database connection -->
-<?php include_once('./includes/db_connect.php'); ?>    
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'includes/db_connect.php'); ?>    
 
     
 <!-- header section -->
-<?php include('/home/site/wwwroot/coffee-website/sections/header.php'); ?> 
+<?php include('./sections/header.php'); ?> 
 
 
 <!-- home section  -->
